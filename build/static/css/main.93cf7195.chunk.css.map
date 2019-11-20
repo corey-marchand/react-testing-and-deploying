@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,uBAAwB,CAG1B,UACE,eAAgB","file":"main.93cf7195.chunk.css","sourcesContent":["span {\n  color: red;\n  background-color: purple;\n}\n\nheader h1 {\n  font-size: 200px;\n}"]}
